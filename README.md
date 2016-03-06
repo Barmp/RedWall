@@ -1,5 +1,5 @@
 # RedWall
-## RedWall was created to download pictures from subreddit frontpages
+RedWall (Reddit Wallpapers) was created to download pictures from subreddit frontpages.
 
 ### Good to know:
 - Only downloads pictures with direct image links
